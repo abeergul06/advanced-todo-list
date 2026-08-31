@@ -1,0 +1,35 @@
+📝 Advanced To-Do List
+
+A modern and responsive To-Do List web application built using HTML, CSS, and JavaScript. This project helps users organize and manage their daily tasks efficiently.
+
+🚀 Features
+➕ Add new tasks
+✏️ Edit existing tasks
+🗑️ Delete tasks
+✅ Mark tasks as completed
+🔍 Search tasks
+📂 Filter tasks by category/status
+⭐ Set task priority
+📊 Task counter
+💾 Local Storage support
+📱 Responsive design
+✨ Smooth CSS animations and effects
+🛠️ Technologies Used
+HTML5 – Website structure
+CSS3 – Styling, animations, and responsive design
+JavaScript – Functionality and task management
+Local Storage – Saving tasks in the browser
+📂 Project Structure
+advanced-todo-list/
+│
+├── First task.html
+├── style.css
+├── todolist.js
+└── README.md
+▶️ How to Run
+Download or clone this repository.
+Open First task.html in your browser.
+Start adding and managing your tasks.
+🎯 Purpose
+
+This project was created to practice and demonstrate frontend web development skills, especially JavaScript DOM manipulation, event handling, Local Storage, and responsive UI design.
